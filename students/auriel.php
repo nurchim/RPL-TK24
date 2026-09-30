@@ -466,7 +466,7 @@ $currentYear = date('Y');
     <div class="container nav">
 
         <a class="brand" href="#home">
-            RPL / <span>@auriel</span>
+           📂 RPL / <span>@auriel</span>
         </a>
 
         <nav class="nav-links">
@@ -489,10 +489,9 @@ $currentYear = date('Y');
                 </div>
 
                 <h1>
-                    Interface yang
-                    <span class="blue">cerah</span>,
-                    <span class="mint">rileks</span>,
-                    dan mudah digunakan.
+                    
+                    <span class="blue">HALLO🤙</span>
+                    
                 </h1>
 
                 <p class="lead">
